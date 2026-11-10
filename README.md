@@ -21,17 +21,15 @@ Por lo cual el atractivo que genera la idea de recuperar productos sin afectar a
 
 
 ## Índice
-- [Brief](#brief)
-- [Descripción técnica](#descripción-técnica)
-- [Arquitectura del sistema](#arquitectura-del-sistema)
-- [Instrucciones de uso](#instrucciones-de-uso)
-- [Tecnologías utilizadas](#tecnologías-utilizadas)
-- [Listado de componentes](#listado-de-componentes)
-- [Esquemáticos / Planos](#esquemáticos--planos)
-- [Fotos / Videos](#fotos--videos)
-- [Estructura del repositorio](#estructura-del-repositorio)
-- [Autor](#autor)
-- [Licencia](#licencia)
+- [Introducción / Objetivo](#introducción--objetivo)
+- [Instalación de Planta de Lavado y Recuperación de Plásticos a Reciclar (Sorema)](#instalación-de-planta-de-lavado-y-recuperación-de-plasticos-a-reciclar-sorema)
+  - [Descripción del equipamiento](#descripción-del-equipamiento)
+  - [Definición de layout](#definición-de-layout)
+  - [Dimensionado del circuito eléctrico](#dimensionado-del-circuito-electrico)
+  - [Obra civil para los simientos y desagües](#obra-civil-para-los-simientos-y-desagues)
+- [Instalación de Planta de Tratamiento y Recuperación de Agua de Lavado (Culubris Water)](#instalación-de-planta-de-tratamiento-y-recuperación-de-agua-de-lavado-culubris-water)
+- [Instalación de Planta de Extrusión y Peletizado (Erema)](#instalación-de-planta-de-extrusión-y-peletizado-erema)
+- [Fotos del Desconsolidado y Montaje](#fotos-del-desconsolidado-y-montaje)
 
 La participación en el proyecto consta del diseño Gral. de la ingeniería de concepto y de detalle del montaje y puesta en marcha de una línea de producción de recupero de plástico para producir pellet de plástico para volver a fabricar bolsas de polietileno de uso comercial.
 El proyecto de recuperación comprende los siguientes sectores
@@ -166,7 +164,9 @@ La selección de la extrusora adecuada resultó crítica para garantizar la corr
 <div align="center">
   <small><small>Ilustración 12 Esquematico flujo del material</small></small>
 </div><br>
- 
 
+## Fotos del Desconsolidado y Montaje
+
+- [📁 Ver carpeta de Multimedia (Fotos del Desconsolidado y Montaje)](https://github.com/amandrini/2026_2C_PPS_Montaje_L-nea_de_Producci-n/tree/main/Multimedia)
 
 ---
